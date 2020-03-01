@@ -1,0 +1,51 @@
+( { EESchema Netlist Version 1.1  15/01/2020 13:16:36
+Eeschema (5.1.5)-3}
+ ( 5DF969F8 Package_DIP:DIP-28_W7.62mm U1 ATmega328P-PU
+ )
+ ( 5DFA1EAC Crystal:Crystal_HC49-U_Vertical Y1 Crystal
+  ( 1 Net-(C2-Pad1) )
+  ( 2 Net-(C1-Pad2) )
+ )
+ ( 5DF9A264 Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm C1 C
+  ( 1 GND )
+  ( 2 Net-(C1-Pad2) )
+ )
+ ( 5DFA12C4 Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm C2 C
+  ( 1 Net-(C2-Pad1) )
+  ( 2 GND )
+ )
+ ( 5DFBE8CD Connector_PinSocket_2.00mm:PinSocket_1x06_P2.00mm_Vertical J1 Conn_01x06
+  ( 1 GND )
+  ( 2 ? )
+  ( 3 VCC )
+  ( 4 TXD )
+  ( 5 RXD )
+  ( 6 DTR )
+ )
+ ( 5E0C0D80 LED_THT:LED_Oval_W5.2mm_H3.8mm D1 LED
+  ( 1 Net-(D1-Pad1) )
+  ( 2 Net-(D1-Pad2) )
+ )
+ ( 5E0C27EA Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal R2 R
+  ( 1 GND )
+  ( 2 Net-(D1-Pad1) )
+ )
+ ( 5E0C5586 Connector_PinSocket_2.00mm:PinSocket_1x06_P2.00mm_Vertical J2 Conn_01x06
+  ( 1 ADC )
+  ( 2 GND )
+  ( 3 VCC )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 ? )
+ )
+ ( 5E0C7055 Connector_PinSocket_2.00mm:PinSocket_1x03_P2.00mm_Vertical J3 Conn_01x03
+  ( 1 PULL )
+  ( 2 GND )
+  ( 3 VCC )
+ )
+ ( 5E1FA764 Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm C3 C
+  ( 1 Net-(C3-Pad1) )
+  ( 2 DTR )
+ )
+)
+*
